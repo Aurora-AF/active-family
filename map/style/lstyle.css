@@ -1,0 +1,28 @@
+/*
+   New Perspectives on HTML and XHTML 5th Edition
+   Tutorial 8
+   Tutorial Case
+
+   Cliffhangers Style Sheet
+
+   Filename:         lstyle.css
+   Supporting Files: 
+
+*/
+
+*    {padding: 0px; margin: 0px}
+body {font-family: Verdana, Geneva, sans-serif; font-size: 14px}
+
+
+ul   {font-size: 12px; line-height: 2; margin-left: 10px; list-style-type: none;
+      color: white; margin-top: 15px}
+
+ul ul {margin-left: 20px; margin-top: 0px}
+
+ul li a {text-decoration: none; color: white}
+ul li a:visited {color: white}
+ul li a:active {color:white}
+ul li a:hover {text-decoration: overline underline; color: yellow}
+
+
+
