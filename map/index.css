@@ -1,0 +1,54 @@
+
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0;}
+ul,ol,li{list-style:none;}
+input,button{margin:0;font-size:12px;vertical-align:middle;}
+body{font-size:12px;font-family:Arial, Helvetica, sans-serif;  text-align:center; margin:0 auto;}
+table{border-collapse:collapse;border-spacing:0;}
+
+.clearfloat{height:0;font-size:1px;clear:both;line-height:0;}
+
+#container{  width:960px; text-align:left; margin:0 auto;}
+a{color:#333;text-decoration:none;}
+a:hover{color:#ef9b11; text-decoration:underline;}
+
+
+/*phd*/
+.phd{ width:960px; height:120px; overflow:hidden;}
+
+
+
+/*pbd*/
+.pbd{ width:960px;}
+
+/*sidebar*/
+.sidebar{ width:232px; float:left; background:#929d9f;}
+
+
+.sidebar .box01{ width:232px;}
+.sidebar .box01 .top{ width:232px; height:26px; line-height:26px; background:#5b686b; color:#fff;}
+.sidebar .box01 .top h4{ padding-left:26px; font-size:14px; background:url(../images/icon03.gif) no-repeat 9px 7px; font-weight:normal;}
+.sidebar .box01 .top h4 span{ float:right; display:inline; margin-right:7px; padding-right:13px; background:url(../images/icon02.gif) no-repeat right 9px;}
+.sidebar .box01 .top h4 span a{ font-size:10px; font-weight:normal;}
+
+
+.sidebar .box01 .mid{ width:100%; padding-top:31px; min-height:320px;_height:320px;}
+
+
+#acc{ padding-left:16px; padding-right:16px;width:200px;}
+.nav{ clear:both;display:block; width:100%; background:url(../images/bg01.gif) repeat-x left bottom; font-weight:normal; line-height:23px; color:#fff; font-size:14px; cursor:pointer;}
+.nav span{ padding-left:18px; background:url(../images/icon04.gif) no-repeat left 3px;}
+
+
+
+.sub{ padding-left:21px; width:179px;padding-top:10px; *height:auto;}
+.sub a{  line-height:24px; color:#fff; font-size:14px; margin-right:10px;}
+.sub a:hover{ color:#ef9b11;}
+
+
+/*maincontent*/
+.maincontent{ width:720px; float:left; display:inline; margin-left:6px;}
+
+
+/*pfd*/
+.pfd{ width:960px;}
